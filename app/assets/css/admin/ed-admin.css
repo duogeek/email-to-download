@@ -1,0 +1,3 @@
+#menu-posts-ed_download .dashicons-admin-post:before, #menu-posts-ed_download .dashicons-format-standard:before {
+    content: '\f316' !important;
+}
